@@ -4,7 +4,7 @@ It scans the most popular words and strings them in a sentence.
 
 You need your twitter API crendetials and have them stored twitter_secrets.json.nogit. The file must be in JSON format so that the SimpleJSON package can read it, so I'll look something like this:
 
-"{ \n",
+{ 
 "api_key": "XXXX",
 "api_secret": "XXXX",
 "access_token": "XXXX",
